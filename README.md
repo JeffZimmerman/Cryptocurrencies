@@ -8,12 +8,15 @@ Clustering using the K-Means Elbow Curve measuring k values iterating from 1 thr
 <img width="702" alt="Screen Shot 2022-02-19 at 10 50 04 PM" src="https://user-images.githubusercontent.com/91562577/154827733-44e58e50-42c1-4bb3-873f-f0b0d3924fd2.png">
 
 3-D Visualization using Principal Component Analysis shows 4 identifiable classes:
+
 <img width="725" alt="Screen Shot 2022-02-19 at 10 55 03 PM" src="https://user-images.githubusercontent.com/91562577/154827831-1d2b0c4f-54dd-4e11-854f-2e60941fc161.png">
 
 Interactive table showing a total of 532 tradable cryptocurrencies:
+
 <img width="713" alt="Screen Shot 2022-02-19 at 10 56 46 PM" src="https://user-images.githubusercontent.com/91562577/154827869-23815ccb-2ea9-46a9-a0d7-dc9b2fba1470.png">
 
 Interactive 2-D scatter plot showing concentration and outliers of cryptocurrencies with total number of coins mined against total coin supply:
+
 <img width="700" alt="Screen Shot 2022-02-19 at 10 58 51 PM" src="https://user-images.githubusercontent.com/91562577/154827906-936dc76c-9440-499a-834d-b9b6a33633cc.png">
 
 ## Summary
